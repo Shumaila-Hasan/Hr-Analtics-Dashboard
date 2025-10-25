@@ -67,7 +67,7 @@ Overview
 ![overview](https://github.com/Shumaila-Hasan/Hr-Analtics-Dashboard/blob/main/Overview.png)
 
 Performance
-![Performance]()
+![Performance](https://github.com/Shumaila-Hasan/Hr-Analtics-Dashboard/blob/main/Performance.png)
 
 Outcomes
 ![Outcomes]()
