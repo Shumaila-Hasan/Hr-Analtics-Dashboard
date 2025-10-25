@@ -58,5 +58,17 @@ Data is available for 3 years (2022-2024).
 # Data Modeling : 
 Here you can check the Data Model which is used for this project.
 
-![data model]()
+![data model](https://github.com/Shumaila-Hasan/Hr-Analtics-Dashboard/blob/main/data%20modelling.png)
+
+
+# Dashboard Overview :
+
+Overview
+![overview]()
+
+Performance
+![Performance]()
+
+Outcomes
+![Outcomes]()
 
