@@ -64,7 +64,7 @@ Here you can check the Data Model which is used for this project.
 # Dashboard Overview :
 
 Overview
-![overview]()
+![overview](https://github.com/Shumaila-Hasan/Hr-Analtics-Dashboard/blob/main/Overview.png)
 
 Performance
 ![Performance]()
